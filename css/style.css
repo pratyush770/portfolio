@@ -866,10 +866,17 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         height: 55px;
     }
     .education {
-            position: relative; /* Or absolute if required */
-            top: -60px; /* Move it further up */
+            position: relative; 
+            top: -60px;
     }
     .education-horizontal-timeline .col-sm-6 {padding:0 30px;}
+    .single-about-txt h3 {
+        margin-left: -20px;
+        margin-right: 10px;
+    }
+    .single-about-txt p {
+        margin-left: -20px;
+        margin-right: 10px;
+    }
 }
-
 /*========================Thank you=================
